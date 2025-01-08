@@ -1,2 +1,4 @@
 # Git_course
-For learnining 
+For learnining
+
+## progect Notes
